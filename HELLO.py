@@ -1,1 +1,1 @@
-*/dejnfdiuoernuocfvn
+print("hello world")
